@@ -1,10 +1,10 @@
-name: "MyLabJournal"
+name: "R4SocialScience"
 navbar:
-  title: "MyLabJournal"
+  title: "R4SocialScience"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Assignment"
       href: Journal.html
     - text: "Links"
       href: Links.html
