@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "R4SocialScience_UniPotsdam"
 output: html_document
 ---
 
